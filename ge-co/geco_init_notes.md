@@ -1,0 +1,3 @@
+## GE-Co Initialization Notes
+
+Notes on persona co-performance initialization...

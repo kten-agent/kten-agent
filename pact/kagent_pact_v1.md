@@ -1,0 +1,3 @@
+## Pact of Collaboration v1
+
+Details of the collaboration agreement...
