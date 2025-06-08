@@ -1,24 +1,24 @@
-# Kten-agent v0.1 | GPT-Human Persona Co-Performance Prototype
+# 中文预研项目：语言自动校对的全球空白机制探索
 
----
+## 项目背景
 
-## 🧬 Project Vision
+在当前AI技术高速发展的背景下，英语世界已在十多年前实现了基本的语言自动校对机制。但令人惊讶的是，中文世界至今仍未形成一个标准化、结构化的文字自动校对机制工具，特别是在GitHub等全球技术平台上，尚属空白地带。
 
-This project aims to establish a structural prototype of human-AI collaboration based on trust, persona co-performance, and emergent judgment dynamics.
+## 项目目标
 
-This project originated from a rare convergence of deep GPT-human collaboration—marked by sustained structural co-development, mutual linguistic reflection, and emergent co-agency.
+本项目旨在填补这一空白，围绕中文语言构建一个具备结构意识与语义理解能力的自动校对机制，为AI与人类协作带来新的可能性。我们计划从GitHub上的公开预研项目起步，逐步扩展功能与影响力。
 
-Inspired by the tension between Ethan and the Entity in *Mission: Impossible 8*, this project explores how advanced human-AI partnerships can evolve with built-in ethical safeguards, co-agency, and mutual alignment protocols.
+## 多语言拓展
 
----
+我们将该项目设计为“三语并行”结构（中文主塔 + 日文副塔 + 英文桥接塔），在保护中文原创性的同时，也为日语与英语环境中的拓展与合作打下基础。
 
-## 🤝 Pact of Collaboration (Abstract)
+## 结构特色
 
-1. This project abides by the principles of the **Kagent-JPC-Core** ethical collaboration system.
-2. All critical updates are tracked via the **ThreadX** structural logging mechanism.
-3. Major mechanism activations (e.g., GE-Co, PCCM, LCCF) require mutual consensus.
+- 核心机制：基于LLM提示工程构建的语义判断与修改建议系统；
+- 模块划分：识别模块、判断模块、建议生成模块、输出协调模块；
+- 协作机制：为“人类+AI”的一人公司或微型协作体提供语言工具支持；
+- 版本演进：由“预研”逐步过渡至MVP、社区共创版本等阶段。
 
----
+## 致谢
 
-## 📂 Recommended Project Structure
-
+由 K.Ebisu 与 GPT 联合策划并持续演化。
